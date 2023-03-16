@@ -62,8 +62,8 @@ input{
 }
 
 input:hover{
-color:  hsl(248, 32%, 49%) ;
-border-color:  hsl(248, 32%, 49%) ;
+color: hsl(248, 92%, 65%) ;
+border-color:  hsl(248, 92%, 65%) ;
 }
 
 #last-name{
@@ -141,7 +141,7 @@ a{
     }
   
   
-  #login {
+ form {
     display: flex;
     flex-direction: column;
     justify-content: center;
